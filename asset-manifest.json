@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Keypad/static/css/main.362a4eed.chunk.css",
+    "main.js": "/Keypad/static/js/main.56b779e1.chunk.js",
+    "main.js.map": "/Keypad/static/js/main.56b779e1.chunk.js.map",
+    "runtime-main.js": "/Keypad/static/js/runtime-main.cd7b34f5.js",
+    "runtime-main.js.map": "/Keypad/static/js/runtime-main.cd7b34f5.js.map",
+    "static/js/2.23712958.chunk.js": "/Keypad/static/js/2.23712958.chunk.js",
+    "static/js/2.23712958.chunk.js.map": "/Keypad/static/js/2.23712958.chunk.js.map",
+    "index.html": "/Keypad/index.html",
+    "static/css/main.362a4eed.chunk.css.map": "/Keypad/static/css/main.362a4eed.chunk.css.map",
+    "static/js/2.23712958.chunk.js.LICENSE.txt": "/Keypad/static/js/2.23712958.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd7b34f5.js",
+    "static/js/2.23712958.chunk.js",
+    "static/css/main.362a4eed.chunk.css",
+    "static/js/main.56b779e1.chunk.js"
+  ]
+}
